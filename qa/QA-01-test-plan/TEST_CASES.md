@@ -19,8 +19,8 @@ Este documento describe los casos de prueba diseñados para validar el comportam
 - Se visualiza el navbar
 - Se muestran los botones principales
 
-**Prioridad:** Alta
-**Tipo:** Navegación
+**Prioridad:** Alta<br>
+**Tipo:** Navegación<br>
 **Estado:** ⬜ Not Run | ✅ Pass | ❌ Fail
 
 ---
@@ -40,9 +40,10 @@ Este documento describe los casos de prueba diseñados para validar el comportam
 
 - Cada opción redirige a su página correspondiente
 
-**Prioridad:** Alta
-**Tipo:** Navegación
+**Prioridad:** Alta<br>
+**Tipo:** Navegación<br>
 **Estado:** ⬜ Not Run | ✅ Pass | ❌ Fail
+
 ---
 
 ### TC-03 – Registro de usuario con datos válidos
@@ -59,9 +60,10 @@ Este documento describe los casos de prueba diseñados para validar el comportam
 
 - El sistema redirige a `/login`
 
-**Prioridad:** Alta
-**Tipo:** Funcional
+**Prioridad:** Alta<br>
+**Tipo:** Funcional<br>
 **Estado:** ⬜ Not Run | ✅ Pass | ❌ Fail
+
 ---
 
 ### TC-04 – Validación de campos vacíos en registro
@@ -79,8 +81,8 @@ Este documento describe los casos de prueba diseñados para validar el comportam
 - El formulario no se envía
 - Aparecen mensajes de validación en los campos obligatorios
 
-**Prioridad:** Alta
-**Tipo:** Validación de formulario
+**Prioridad:** Alta<br>
+**Tipo:** Validación de formulario<br>
 **Estado:** ⬜ Not Run | ✅ Pass | ❌ Fail
 
 ---
@@ -98,9 +100,10 @@ Este documento describe los casos de prueba diseñados para validar el comportam
 
 - El formulario muestra un mensaje de error indicando que la contraseña no cumple con los requisitos
 
-**Prioridad:** Alta
-**Tipo:** Validación de formulario
+**Prioridad:** Alta<br>
+**Tipo:** Validación de formulario<br>
 **Estado:** ⬜ Not Run | ✅ Pass | ❌ Fail
+
 ---
 
 ## 🔐 Módulo: Autenticación
@@ -128,8 +131,8 @@ Este documento describe los casos de prueba diseñados para validar el comportam
 "Login funcional pendiente de implementar. Redirigiendo al feed"
 - Redirección a `/feed`
 
-**Prioridad:** Alta
-**Tipo:** Funcional
+**Prioridad:** Alta<br>
+**Tipo:** Funcional<br>
 **Estado:** ⬜ Not Run | ✅ Pass | ❌ Fail
 
 ---
@@ -149,11 +152,12 @@ Este documento describe los casos de prueba diseñados para validar el comportam
 - El formulario no se envía
 - Aparecen validaciones
 
-**Prioridad:** Alta
-**Tipo:** Validación del formulario
+**Prioridad:** Alta<br>
+**Tipo:** Validación del formulario<br>
 **Estado:** ⬜ Not Run | ✅ Pass | ❌ Fail
 
 ---
+
 ## 🔒 Módulo: Seguridad / Acceso
 
 ### TC-08 – Acceso al Feed sin autenticación
@@ -173,8 +177,8 @@ Este documento describe los casos de prueba diseñados para validar el comportam
 
 - Se permite acceso al feed sin autenticación
 
-**Prioridad:** Alta
-**Tipo:** Seguridad
+**Prioridad:** Alta<br>
+**Tipo:** Seguridad<br>
 **Estado:** ⬜ Not Run | ✅ Pass | ❌ Fail
 
 ---
@@ -195,8 +199,8 @@ Este documento describe los casos de prueba diseñados para validar el comportam
 
 - Permite acceso al perfil sin autenticación
 
-**Prioridad:** Alta
-**Tipo:** Seguridad
+**Prioridad:** Alta<br>
+**Tipo:** Seguridad<br>
 **Estado:** ⬜ Not Run | ✅ Pass | ❌ Fail
 
 ---
@@ -216,8 +220,8 @@ Este documento describe los casos de prueba diseñados para validar el comportam
 - Se muestran publicaciones en el feed
 - Interfaz visible correctamente
 
-**Prioridad:** Alta
-**Tipo:** Funcional
+**Prioridad:** Alta<br>
+**Tipo:** Funcional<br>
 **Estado:** ⬜ Not Run | ✅ Pass | ❌ Fail
 
 ---
@@ -244,8 +248,8 @@ Este documento describe los casos de prueba diseñados para validar el comportam
 
 - Los botones no realizan ninguna acción
 
-**Prioridad:** Media
-**Tipo:** Funcional
+**Prioridad:** Media<br>
+**Tipo:** Funcional<br>
 **Estado:** ⬜ Not Run | ✅ Pass | ❌ Fail
 
 ---
@@ -264,8 +268,8 @@ Este documento describe los casos de prueba diseñados para validar el comportam
 
 - Se muestra la información del perfil del usuario
 
-**Prioridad:** Alta
-**Tipo:** Funcional
+**Prioridad:** Alta<br>
+**Tipo:** Funcional<br>
 **Estado:** ⬜ Not Run | ✅ Pass | ❌ Fail
 
 ---
@@ -281,8 +285,8 @@ Este documento describe los casos de prueba diseñados para validar el comportam
 **Resultado esperado:** 
 - Los campos del perfil se habilitan para edición 
 
-**Prioridad:** Media 
-**Tipo:** Funcional 
+**Prioridad:** Media<br> 
+**Tipo:** Funcional<br> 
 **Estado:** ⬜ Not Run | ✅ Pass | ❌ Fail
 
 ---
@@ -306,8 +310,8 @@ Este documento describe los casos de prueba diseñados para validar el comportam
 
 - Error 404
 
-**Prioridad:** Media 
-**Tipo:** Navegación 
+**Prioridad:** Media<br> 
+**Tipo:** Navegación<br> 
 **Estado:** ⬜ Not Run | ✅ Pass | ❌ Fail
 
 ---
@@ -330,6 +334,6 @@ Este documento describe los casos de prueba diseñados para validar el comportam
 - Texto no se desborda
 - El navbar permanece visible
 
-**Prioridad:** Media 
-**Tipo:** UI / Responsive 
+**Prioridad:** Media<br> 
+**Tipo:** UI / Responsive<br> 
 **Estado:** ⬜ Not Run | ✅ Pass | ❌ Fail
