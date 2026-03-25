@@ -15,7 +15,7 @@ Las pruebas estarán enfocadas en las funcionalidades visibles y accesibles del 
 - Inicio de sesión
 - Acceso al feed
 - Visualización del perfil de usuario
-- VAlidación de Formularios
+- Validación de Formularios
 - Comportamiento de la interfaz de usuario
 - Diseño responsive en diferentes tamaños de pantalla
 
