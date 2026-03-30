@@ -39,7 +39,10 @@ El sistema permite acceder al feed (/feed) sin que el usuario haya iniciado sesi
 ![Feed sin login](/qa/QA-03-bug-reports/screenshots/bug-001-feed-sin-login.png)
 
 🎥 Video:
-[Ver video](/qa/QA-03-bug-reports/screenshots/bug-001-feed-sin-login.mp4)
+[Ver video](/qa/QA-03-bug-reports/screenshots/bug-002-profile-sin-login.mp4)
+<video src="/qa/QA-03-bug-reports/screenshots/bug-001-feed-sin-login.mp4" width="100%" controls>
+  Feed sin login
+</video>
 
 
 ### 🛠 Workarounds
@@ -89,6 +92,7 @@ El perfil del usuario (/profile/me) es accesible sin iniciar sesión.
 
 🎥 Video:
 [Ver video](/qa/QA-03-bug-reports/screenshots/bug-002-profile-sin-login.mp4)
+<video src="/qa/QA-03-bug-reports/screenshots/bug-002-profile-sin-login.mp4" width="100%" controls></video>
 
 ### 🛠 Workarounds
 
@@ -140,6 +144,7 @@ El login permite ingresar con cualquier credencial y no valida usuarios reales.
 
 🎥 Video:
 [Ver video](/qa/QA-03-bug-reports/screenshots/bug-003-login-no-auth.mp4)
+<video src="/qa/QA-03-bug-reports/screenshots/bug-003-login-no-auth.mp4" width="100%" controls></video>
 
 ### 🛠 Workarounds
 
@@ -193,6 +198,7 @@ Los botones principales del feed (nueva publicación, me gusta, comentar, compar
 
 🎥 Video:
 [Ver video](/qa/QA-03-bug-reports/screenshots/bug-004-botones-feed.mp4)
+<video src="/qa/QA-03-bug-reports/screenshots/bug-004-botones-feed.mp4" width="100%" controls></video>
 
 ### 🛠 Workarounds
 
@@ -240,6 +246,7 @@ El enlace de recuperación de contraseña redirige a una página inexistente.
 
 🎥 Video:
 [Ver video](/qa/QA-03-bug-reports/screenshots/bug-005-404-forgot.mp4)
+<video src="/qa/QA-03-bug-reports/screenshots/bug-005-404-forgot.mp4" width="100%" controls></video>
 
 ### 🛠 Workarounds
 
@@ -292,6 +299,7 @@ El botón **Editar perfil** cambia a estado de guardado, pero no permite modific
 
 🎥 Video:
 [Ver video](/qa/QA-03-bug-reports/screenshots/bug-006-profile-no-funcional.mp4)
+<video src="/qa/QA-03-bug-reports/screenshots/bug-006-profile-no-funcional.mp4" width="100%" controls></video>
 
 ### 🛠 Workarounds
 
@@ -341,6 +349,7 @@ El perfil muestra estadísticas de publicaciones (ej: "45 publicaciones"), pero 
 
 🎥 Video:
 [Ver video ](/qa/QA-03-bug-reports/screenshots/bug-007-profile-datos-inconsistentes.mp4)
+<video src="/qa/QA-03-bug-reports/screenshots/bug-007-profile-datos-inconsistentes.mp4" width="100%" controls></video>
 
 
 ### 🛠 Workarounds
