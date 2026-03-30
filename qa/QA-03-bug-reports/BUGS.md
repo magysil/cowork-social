@@ -39,7 +39,7 @@ El sistema permite acceder al feed (/feed) sin que el usuario haya iniciado sesi
 ![Feed sin login](/qa/QA-03-bug-reports/screenshots/bug-001-feed-sin-login.png)
 
 🎥 Video:
-[Ver video](/qa/QA-03-bug-reports/screenshots/bug-002-profile-sin-login.mp4)
+[Ver video](/qa/QA-03-bug-reports/screenshots/bug-001-feed-sin-login.mp4)
 <video src="/qa/QA-03-bug-reports/screenshots/bug-001-feed-sin-login.mp4" width="100%" controls>
   Feed sin login
 </video>
