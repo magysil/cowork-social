@@ -1,5 +1,3 @@
----
-
 ## 🔍 Colaboración QA: Desafío de Testing
 Estoy por completar las **3 Tareas Estratégicas** para validar la calidad de la aplicación **Cowork Social**. Puedes revisar el detalle de mi trabajo, los hallazgos críticos y la estrategia seguida en el siguiente enlace:
 
