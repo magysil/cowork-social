@@ -1,5 +1,5 @@
 ## 🔍 Colaboración QA: Desafío de Testing
-Estoy por completar las **3 Tareas Estratégicas** para validar la calidad de la aplicación **Cowork Social**. Puedes revisar el detalle de mi trabajo, los hallazgos críticos y la estrategia seguida en el siguiente enlace:
+Completé las **3 Tareas Estratégicas** para validar la calidad de la aplicación **Cowork Social**. Puedes revisar el detalle de mi trabajo, los hallazgos críticos y la estrategia seguida en el siguiente enlace:
 
 👉 **[Ver Documentación de QA completa aquí](./qa/)**
 
@@ -7,12 +7,16 @@ Estoy por completar las **3 Tareas Estratégicas** para validar la calidad de la
 1.  **Estrategia de Testing**: Definición de alcance, riesgos y tipos de prueba.
 2.  **Casos de Prueba**: 15 escenarios de prueba que cubren navegación, seguridad y UI.
 3.  **Matriz de Compatibilidad**: Validación de diseño responsive y multidispositivo.
+4.  **Implementación de tests E2E con Cypress**: Automatización de flujos críticos. 
+5.  **Uso de assertions para validación de comportamiento**
+6.  **Ejecución de testing exploratorio**
+7.  **Identificación de 7 bugs críticos y funcionales**: Clasificados por severidad y prioridad
 
 ---
 
 # 🚀 CoWork Social
 
-<div align="center">
+<div aling="center">
 
 **Proyecto de Aprendizaje por [ID For IDeas](https://idforideas.com/)**
 
